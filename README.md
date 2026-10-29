@@ -1,4 +1,3 @@
-## About
 
 This repository was created as part of my self-learning journey in software testing.  
 The main goal was to practice:
